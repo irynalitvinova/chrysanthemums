@@ -1,0 +1,45 @@
+p {
+  margin-bottom: 0;
+}
+.article-page {
+  max-width: 900px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+.article-card-page {
+  background-color: #fff;
+}
+
+
+
+
+
+.article-page-back {
+  margin-top: 10px;
+  text-align: center;
+}
+.article-page__link-back {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.article-page__link-back:hover {
+  color: var(--hover-text-color);
+
+}
+.article-page__icon-wrap {
+  display: flex;
+  margin-right: 10px;
+}
+.article-card__text-subtitle {
+   font-weight: 600;
+}
+.article__img--golden--flower {
+ 
+    height: 100%; 
+    max-height: 90%;   
+}
+
